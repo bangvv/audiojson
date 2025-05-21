@@ -1,15 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Như Lai Thần Chưởng",
-    "description": "Một câu chuyện đầy huyền bí về tu luyện, tiên đạo, và chiến đấu.",
+    "title": "Đan Vũ Càn Khôn",
+    "description": "Tần Phàm, đệ tử duy nhất của môn phái luyện đan Đan Môn, sau khi thất bại trong một lần luyện dược và bị nổ đan đỉnh, đã xuyên không đến một thế giới võ giả – nơi sức mạnh quyết định tất cả. Tại đây, với niềm đam mê luyện dược, hắn bắt đầu con đường vừa tu luyện võ đạo vừa thu thập linh dược để rèn luyện thân thể, chiến đấu với thần ma, vượt qua mọi giới hạn để trở thành cường giả đứng đầu trong cả giới luyện đan lẫn võ đạo.\nHệ thống cảnh giới võ đạo: Võ Đồ → Võ Giả → Võ Sư → Tiên Thiên Võ Sư → Linh Võ Sư → Võ Tôn → Võ Thánh...\nPhân loại luyện dược: Ngũ Đẳng: Linh dịch, Tứ Đẳng: Linh lộ, Tam Đẳng: Linh tán, Nhị Đẳng: Linh hoàn, Nhất Đẳng: Linh đan, Các cấp độ đan đỉnh: Phàm Đỉnh → Tinh Phẩm Đỉnh → Thiên Công Đỉnh → Tạo Hóa Đỉnh",
     "type": "tienhiep",
     "chapters": [
-      { "id": 1, "title": "Chương 1: Bắt đầu", "audioUrl": "mp3/yeulam.mp3" },
-      { "id": 2, "title": "Chương 2: Thử thách", "audioUrl": "mp3/yeulam.mp3" },
-      { "id": 3, "title": "Chương 3: Thử thách", "audioUrl": "mp3/yeulam.mp3" },
-      { "id": 4, "title": "Chương 4: Thử thách", "audioUrl": "mp3/yeulam.mp3" },
-      { "id": 5, "title": "Chương 5: Thử thách", "audioUrl": "mp3/yeulam.mp3" }
+      { "id": 1, "title": "Chương 1-30", "audioUrl": "https://archive.org/download/dvck1-30/dvck1-30.mp3" },
+      { "id": 2, "title": "Chương 31-60", "audioUrl": "https://archive.org/download/dvck31-60/dvck31-60.mp3" },
+	  { "id": 3, "title": "Chương 61-90", "audioUrl": "https://archive.org/download/dvck61-90/dvck61-90.mp3" }
     ]
   },
   {
