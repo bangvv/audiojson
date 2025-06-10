@@ -1,36 +1,9 @@
 [
   {
     "id": 1,
-    "title": "Đan Vũ Càn Khôn",
-    "description": "Tần Phàm, đệ tử duy nhất của môn phái luyện đan Đan Môn, sau khi thất bại trong một lần luyện dược và bị nổ đan đỉnh, đã xuyên không đến một thế giới võ giả – nơi sức mạnh quyết định tất cả. Tại đây, với niềm đam mê luyện dược, hắn bắt đầu con đường vừa tu luyện võ đạo vừa thu thập linh dược để rèn luyện thân thể, chiến đấu với thần ma, vượt qua mọi giới hạn để trở thành cường giả đứng đầu trong cả giới luyện đan lẫn võ đạo.\nHệ thống cảnh giới võ đạo: Võ Đồ → Võ Giả → Võ Sư → Tiên Thiên Võ Sư → Linh Võ Sư → Võ Tôn → Võ Thánh...\nPhân loại luyện dược: Ngũ Đẳng: Linh dịch, Tứ Đẳng: Linh lộ, Tam Đẳng: Linh tán, Nhị Đẳng: Linh hoàn, Nhất Đẳng: Linh đan, Các cấp độ đan đỉnh: Phàm Đỉnh → Tinh Phẩm Đỉnh → Thiên Công Đỉnh → Tạo Hóa Đỉnh",
+    "title": "Đấu La Đại Lục 1",
+    "description": "Phần 1 Đường Tam trung sinh đấu la đại lục và cuộc sống mới.",
     "type": "tienhiep",
-    "chapters": [
-		{ "id": 1, "title": "Chương 1-30", "audioUrl": "https://archive.org/download/dvck1-30_202505/dvck1-30.mp3" },
-		{ "id": 2, "title": "Chương 31-59", "audioUrl": "https://archive.org/download/dvck31-59/dvck31-59.mp3" },
-		{ "id": 3, "title": "Chương 60-89", "audioUrl": "https://archive.org/download/dvck60-89/dvck60-89.mp3" },
-		{ "id": 4, "title": "Chương 90-119", "audioUrl": "https://archive.org/download/dvck90-119/dvck90-119.mp3" },
-		{ "id": 5, "title": "Chương 120-149", "audioUrl": "https://archive.org/download/dvck120-149/dvck120-149.mp3" },
-		{ "id": 6, "title": "Chương 150-178", "audioUrl": "https://archive.org/download/dvck150-179/dvck150-179.mp3" },
-		{ "id": 7, "title": "Chương 179-208", "audioUrl": "https://archive.org/download/dvck179-208_202505/dvck179-208.mp3" },
-		{ "id": 8, "title": "Chương 209-240", "audioUrl": "https://archive.org/download/dvck209-240/dvck209-240.mp3" }
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Truyện Ngôn Tình Hay",
-    "description": "Câu chuyện tình yêu lãng mạn, sâu sắc.",
-    "type": "ngontinh",
-    "chapters": [
-      { "id": 1, "title": "Chương 1: Gặp gỡ", "audioUrl": "mp3/yeulam.mp3" }
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Kinh Dị Đêm Trăng",
-    "description": "Những câu chuyện rùng rợn trong đêm tối.",
-    "type": "kinhdi",
-    "chapters": [
-      { "id": 1, "title": "Chương 1: Bí ẩn", "audioUrl": "mp3/yeulam.mp3" }
-    ]
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/dldl1.json"
   }
 ]
