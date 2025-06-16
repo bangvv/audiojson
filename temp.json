@@ -33,5 +33,19 @@
     "description": "Truyện ngôn tình Mộng dục",
     "type": "ngontinh",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/nt_md.json"
+  },
+  {
+    "id": 6,
+    "title": "Thần Mộ",
+    "description": "Truyện tiên hiệp Thần Mộ",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_tm.json"
+  },
+  {
+    "id": 7,
+    "title": "Tru Tiên",
+    "description": "Truyện tiên hiệp Tru Tiên",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_tt.json"
   }
 ]
