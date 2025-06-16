@@ -1,23 +1,30 @@
 [
   {
-    "id": 1,
+    "id": 8,
+    "title": "Yêu Thần Ký",
+    "description": "Truyện tiên hiệp cực hay Yêu Thần Ký",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/dldl1.json"
+  },
+  {
+    "id": 7,
     "title": "Đấu La Đại Lục 1",
     "description": "Phần 1 Đường Tam trùng sinh tại đấu la đại lục và cuộc sống mới",
     "type": "tienhiep",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/dldl1.json"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "Bà Tôi",
     "description": "Truyện kinh dị có thật Bà Tôi",
     "type": "kinhdi",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/kd_bt.json"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Quỷ luyến hiệp tình",
-    "description": "Truyện sắc hiệp Quỷ luyến hiệp tình",
-    "type": "sac",
+    "description": "Truyện kiếm hiệp Quỷ luyến hiệp tình",
+    "type": "kiemhiep",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/sac_qlht.json"
   },
   {
@@ -28,21 +35,21 @@
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/nt_tlnx.json"
   },
   {
-    "id": 5,
+    "id": 3,
     "title": "Mộng dục",
     "description": "Truyện ngôn tình Mộng dục",
     "type": "ngontinh",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/nt_md.json"
   },
   {
-    "id": 6,
+    "id": 2,
     "title": "Thần Mộ",
     "description": "Truyện tiên hiệp Thần Mộ",
     "type": "tienhiep",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_tm.json"
   },
   {
-    "id": 7,
+    "id": 1,
     "title": "Tru Tiên",
     "description": "Truyện tiên hiệp Tru Tiên",
     "type": "tienhiep",
