@@ -18,7 +18,7 @@
     "title": "Quỷ luyến hiệp tình",
     "description": "Truyện sắc hiệp Quỷ luyến hiệp tình",
     "type": "sac",
-    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/kd_bt.json"
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/sac_qlht.json"
   },
   {
     "id": 4,
@@ -26,5 +26,12 @@
     "description": "Truyện ngôn tình cổ đại Trăng Lạnh Như Sương",
     "type": "ngontinh",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/nt_tlnx.json"
+  },
+  {
+    "id": 5,
+    "title": "Mộng dục",
+    "description": "Truyện ngôn tình Mộng dục",
+    "type": "ngontinh",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/nt_md.json"
   }
 ]
