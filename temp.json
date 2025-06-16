@@ -8,9 +8,23 @@
   },
   {
     "id": 2,
-    "title": "Đấu La Đại Lục 3:  Long Vương Truyền Thuyết",
-    "description": "Phần 3 Con trai Đường tam là Đường Vũ Lân xuống đấu la đại lục để tìm đường sống ...",
-    "type": "tienhiep",
-    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/dldl3.json"
+    "title": "Bà Tôi",
+    "description": "Truyện kinh dị có thật Bà Tôi",
+    "type": "kinhdi",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/kd_bt.json"
+  },
+  {
+    "id": 3,
+    "title": "Quỷ luyến hiệp tình",
+    "description": "Truyện sắc hiệp Quỷ luyến hiệp tình",
+    "type": "sac",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/kd_bt.json"
+  },
+  {
+    "id": 4,
+    "title": "Trăng Lạnh Như Sương",
+    "description": "Truyện ngôn tình cổ đại Trăng Lạnh Như Sương",
+    "type": "ngontinh",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/nt_tlnx.json"
   }
 ]
