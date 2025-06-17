@@ -1,5 +1,23 @@
 [
-  {
+{
+    "id": 13,
+    "title": "Nghịch Thiên Tà Thần",
+    "description": "Truyện tiên hiệp Nghịch Thiên Tà Thần",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_nttt.json"
+  },{
+    "id": 12,
+    "title": "Vũ Động Càn Khôn Full",
+    "description": "Truyện tiên hiệp Vũ Động Càn Khôn Full",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_vdck.json"
+  },{
+    "id": 11,
+    "title": "Phàm Nhân Tu Tiên 1 & 2 Full",
+    "description": "Truyện tiên hiệp Phàm Nhân Tu Tiên 1 & 2 Full",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_pntt_full.json"
+  },{
     "id": 10,
     "title": "Đấu La Đại Lục 4 - Chung Cực Đấu La",
     "description": "Phần 4 Cuộc phiêu lưu của Lam Hiên Vũ",
@@ -17,50 +35,43 @@
     "description": "Truyện tiên hiệp cực hay Yêu Thần Ký",
     "type": "tienhiep",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_ytk.json"
-  },
-  {
+  },{
     "id": 7,
     "title": "Đấu La Đại Lục 1",
     "description": "Phần 1 Đường Tam trùng sinh tại đấu la đại lục và cuộc sống mới",
     "type": "tienhiep",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/dldl1.json"
-  },
-  {
+  },{
     "id": 6,
     "title": "Bà Tôi",
     "description": "Truyện kinh dị có thật Bà Tôi",
     "type": "kinhdi",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/kd_bt.json"
-  },
-  {
+  },{
     "id": 5,
     "title": "Quỷ luyến hiệp tình",
     "description": "Truyện kiếm hiệp Quỷ luyến hiệp tình",
     "type": "kiemhiep",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/sac_qlht.json"
-  },
-  {
+  },{
     "id": 4,
     "title": "Trăng Lạnh Như Sương",
     "description": "Truyện ngôn tình cổ đại Trăng Lạnh Như Sương",
     "type": "ngontinh",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/nt_tlnx.json"
-  },
-  {
+  },{
     "id": 3,
     "title": "Mộng dục",
     "description": "Truyện ngôn tình Mộng dục",
     "type": "ngontinh",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/nt_md.json"
-  },
-  {
+  },{
     "id": 2,
     "title": "Thần Mộ",
     "description": "Truyện tiên hiệp Thần Mộ",
     "type": "tienhiep",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_tm.json"
-  },
-  {
+  },{
     "id": 1,
     "title": "Tru Tiên",
     "description": "Truyện tiên hiệp Tru Tiên",
