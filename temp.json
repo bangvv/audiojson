@@ -1,5 +1,11 @@
 [
   {
+    "id": 10,
+    "title": "Đấu La Đại Lục 4 - Chung Cực Đấu La",
+    "description": "Phần 4 Cuộc phiêu lưu của Lam Hiên Vũ",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_dldl4.json"
+  },{
     "id": 9,
     "title": "Đấu La Đại Lục 3 - Long Vương Truyền Thuyết",
     "description": "phần 3, con trai Đường Tam là Đường Vũ Lân hạ xuống Đấu La Đại Lục tìm cuộc sống mới.",
