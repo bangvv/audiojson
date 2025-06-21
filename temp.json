@@ -1,5 +1,17 @@
 [
   {
+    "id": 19,
+    "title": "Ma Thiên Ký",
+    "description": "Truyện tiên hiệp Ma Thiên Ký",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_mtk.json"
+  },{
+    "id": 18,
+    "title": "Nhất Niệm Vĩnh Hằng",
+    "description": "Truyện tiên hiệp Nhất Niệm Vĩnh Hằng",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_nnvh.json"
+  },{
     "id": 17,
     "title": "Thôn Phệ Tinh Không",
     "description": "Truyện tiên hiệp Thôn Phệ Tinh Không",
