@@ -1,6 +1,6 @@
 [
   {
-    "id": 19,
+    "id": 21,
     "title": "Ma Thiên Ký",
     "description": "Truyện tiên hiệp Ma Thiên Ký",
     "type": "tienhiep",
@@ -29,6 +29,18 @@
     "description": "Truyện tiên hiệp Đấu Phá Thương Khung",
     "type": "tienhiep",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_dptk.json"
+  },{
+    "id": 19,
+    "title": "Bốc Mộ Ma Lon",
+    "description": "Truyện ma Bốc Mộ Ma Lon",
+    "type": "kinhdi",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/kd_bmml.json"
+  },{
+    "id": 20,
+    "title": "Am Thờ Canh Giếng Làng",
+    "description": "Truyện ma Am Thờ Canh Giếng Làng",
+    "type": "kinhdi",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/kd_atcgl.json"
   },{
     "id": 14,
     "title": "Đại Chúa Tể",
