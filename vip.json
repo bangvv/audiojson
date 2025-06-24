@@ -141,10 +141,17 @@
   },
   {
     "id": 21,
-    "title": "Truyện XXX",
-    "description": "Truyện XXX",
+    "title": "Truyện Cô giáo lan",
+    "description": "Truyện Cô giáo lan",
     "type": "xxx",
-    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_tm.json"
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_cgl.json"
+  },
+   {
+    "id": 23,
+    "title": "Truyện Cô giáo Mai",
+    "description": "Truyện Cô giáo Mai",
+    "type": "xxx",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_cgm.json"
   },
   {
     "id": 1,

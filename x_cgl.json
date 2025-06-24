@@ -1,0 +1,5 @@
+[
+	{ "id": 1, "title": "Phần 1", "audioUrl": "https://archive.org/download/cgl_2/cgl_1.mp3" },
+	{ "id": 2, "title": "Phần 2", "audioUrl": "https://archive.org/download/cgl_2/cgl_2.mp3" },
+	{ "id": 3, "title": "Phần 3", "audioUrl": "https://archive.org/download/cgl_2/cgl_3.mp3" }
+]
