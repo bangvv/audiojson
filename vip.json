@@ -139,19 +139,12 @@
     "type": "tienhiep",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_tm.json"
   },
-    {
-    "id": 1003,
-    "title": "Truyện Cô Giáo Môn Văn",
-    "description": "Cô Giáo Môn Văn 1 truyện hay nữa ...",
-    "type": "xxx",
-    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_cgmv.json"
-  },
-   {
-    "id": 1002,
-    "title": "Truyện Hệ Thống Thần Kỳ",
-    "description": "1 hệ thống thần kỳ xuất hiện cùng những thử thách bá đạo ...",
-    "type": "xxx",
-    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_httk.json"
+  {
+    "id": 1,
+    "title": "Tru Tiên",
+    "description": "Truyện tiên hiệp Tru Tiên",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_tt.json"
   },
     {
     "id": 1001,
@@ -160,11 +153,32 @@
     "type": "xxx",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_cgl.json"
   },
+   {
+    "id": 1002,
+    "title": "Truyện Hệ Thống Thần Kỳ",
+    "description": "1 hệ thống thần kỳ xuất hiện cùng những thử thách bá đạo ...",
+    "type": "xxx",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_httk.json"
+  },
+     {
+    "id": 1003,
+    "title": "Truyện Cô Giáo Môn Văn",
+    "description": "Cô Giáo Môn Văn 1 truyện hay nữa ...",
+    "type": "xxx",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_cgmv.json"
+  },
   {
-    "id": 1,
-    "title": "Tru Tiên",
-    "description": "Truyện tiên hiệp Tru Tiên",
-    "type": "tienhiep",
-    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_tt.json"
+    "id": 1004,
+    "title": "Truyện Cô nhân viên cùng phòng",
+    "description": "Cô nhân viên cùng phòng 1 truyện hay nữa ...",
+    "type": "xxx",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_cnvcp.json"
+  },
+  {
+    "id": 1005,
+    "title": "Truyện Trò Chơi Tình Ái",
+    "description": "Trò Chơi Tình Ái thêm truyện hay nữa ...",
+    "type": "xxx",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_tcta.json"
   }
 ]
