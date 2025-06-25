@@ -139,19 +139,26 @@
     "type": "tienhiep",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_tm.json"
   },
-  {
-    "id": 21,
-    "title": "Truyện Cô giáo lan",
-    "description": "Truyện Cô giáo lan",
+    {
+    "id": 1003,
+    "title": "Truyện Cô Giáo Môn Văn",
+    "description": "Cô Giáo Môn Văn 1 truyện hay nữa ...",
     "type": "xxx",
-    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_cgl.json"
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_cgmv.json"
   },
    {
-    "id": 23,
+    "id": 1002,
     "title": "Truyện Hệ Thống Thần Kỳ",
     "description": "1 hệ thống thần kỳ xuất hiện cùng những thử thách bá đạo ...",
     "type": "xxx",
     "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_httk.json"
+  },
+    {
+    "id": 1001,
+    "title": "Truyện Cô giáo Lan",
+    "description": "Truyện Cô giáo Lan",
+    "type": "xxx",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_cgl.json"
   },
   {
     "id": 1,
