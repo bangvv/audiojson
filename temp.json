@@ -1,5 +1,11 @@
 [
   {
+    "id": 22,
+    "title": "Tiên Nghịch",
+    "description": "Truyện tiên hiệp Tiên Nghịch",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_tn.json"
+  },{
     "id": 21,
     "title": "Ma Thiên Ký",
     "description": "Truyện tiên hiệp Ma Thiên Ký",
