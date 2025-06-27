@@ -201,5 +201,12 @@
         "description": "truyện hay về hệ thống bá đạo ...",
         "type": "xxx",
         "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_htls.json"
+    },
+    {
+        "id": 1008,
+        "title": "Truyện cuộc đời trái ngang",
+        "description": "Truyện cuộc đời trái ngang hay ...",
+        "type": "xxx",
+        "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_htls.json"
     }
 ]
