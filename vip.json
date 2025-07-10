@@ -215,5 +215,12 @@
         "description": "Truyện Cô Giáo Mai hay ...",
         "type": "xxx",
         "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_cgm.json"
+    },
+    {
+        "id": 1010,
+        "title": "Truyện Hối hận muộn màng",
+        "description": "Truyện của tác giả Ngọc Linh",
+        "type": "xxx",
+        "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/x_hhmm.json"
     }
 ]
