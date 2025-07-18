@@ -1,5 +1,11 @@
 [
   {
+    "id": 25,
+    "title": "Tinh Thần Biến",
+    "description": "Truyện siêu hay",
+    "type": "tienhiep",
+    "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_ttb.json"
+  },{
     "id": 24,
     "title": "Linh Vũ Thiên Hạ",
     "description": "cuộc đời trùng sinh của Lục Thiếu Du tại thế giới Linh Vũ",
