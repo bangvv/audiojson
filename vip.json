@@ -1,5 +1,19 @@
 [
     {
+        "id": 24,
+        "title": "Linh Vũ Thiên Hạ",
+        "description": "cuộc đời trùng sinh của Lục Thiếu Du tại thế giới Linh Vũ",
+        "type": "tienhiep",
+        "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_lvth.json"
+    },
+    {
+        "id": 23,
+        "title": "Thế Giới Hoàn Mỹ",
+        "description": "Truyện đầu tiên trong 3 bộ Luân Hồi Tam Bộ Khúc",
+        "type": "tienhiep",
+        "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_tghm.json"
+    },
+    {
         "id": 22,
         "title": "Tiên Nghịch",
         "description": "Truyện tiên hiệp Tiên Nghịch",
