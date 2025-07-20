@@ -1,5 +1,12 @@
 [
     {
+        "id": 26,
+        "title": "Cổ Chân Nhân",
+        "description": "Truyện Cổ Chân Nhân",
+        "type": "tienhiep",
+        "linkChapter": "https://raw.githubusercontent.com/bangvv/audiojson/main/th_ccn.json"
+    },
+    {
         "id": 25,
         "title": "Tinh Thần Biến",
         "description": "Truyện siêu hay",
